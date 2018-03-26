@@ -1,0 +1,12 @@
+# IIUM-CSC3301-AI-Smart_Diet_System
+Principles of Artificial Intelligence
+
+Title:Smart Diet System
+
+*Python*
+
+GROUP MEMBERS:
+* MUHAMMAD HANIF BIN JAMIL
+* AHMAD FAIZ BIN AHMAD MURSHID
+* MUHAMMAD HELMI BIN HIDZIR
+* MUHAMMAD ‘ATIF BIN MUSTAFFA
