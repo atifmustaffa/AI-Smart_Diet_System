@@ -1,0 +1,61 @@
+
+REPORT
+===========================================
+
+User Details
+===========================================
+Name           : mimi
+Age            : 17
+Gender         : Male
+Height         : 163.0cm
+Weight         : 50.0kg
+Weight Goal    : 50.3kg
+Activity Level : 2
+
+Your BMI is 18.8 and your weight status is Normal
+
+Calories Report
+===========================================
+Daily calories you need to maintain your current weight is 1996
+Daily calories you need to gain weight (0.30kg/week) is 2295
+
+Suggested meal
+===========================================
+Breakfast:
+
+  Meal Name 1  : Ham and Egg Mushroom Cups
+  Amount       : 3 cup
+  Calories     : 565.5
+
+  Meal Name 2  : Bacon
+  Amount       : 4 strips
+  Calories     : 200.2
+
+  Total Breakfast Calories : 765.7
+
+Lunch:
+
+  Meal Name 1  : Coconut Milk Protein Shake
+  Amount       : 1 shake
+  Calories     : 360
+
+  Meal Name 2  : Cheese slices
+  Amount       : 1 serving
+  Calories     : 115.1
+
+  Total Lunch Calories : 475.1
+
+Dinner:
+
+  Meal Name 1  : Caprese Chicken
+  Amount       : 2 Serving
+  Calories     : 550.1
+
+  Meal Name 2  : Carrots
+  Amount       : 2 cup
+  Calories     : 172.2
+
+  Total Dinner Calories : 722.3
+=============================
+Total Calories : 1964
+=============================
